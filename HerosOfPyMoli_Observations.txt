@@ -1,0 +1,13 @@
+PyMoli Observations - Homework 4
+
+1.  Given the fact that there are more male players that have a higher average purchase value of $1,967.64, we can assume that the top spenders are most
+likely comprised of mostly male players.  Also, that these top spenders are likely in the 20-24 age group.
+
+2.  There are two games that are on the top five of most popular list (Persuasion and Quickblad of Trembling Hands Extraction)
+that are not represented in the most profitable items.  By looking at the total purchase values we can observe that these two popular games are about 
+$10-$30 dollars cheaper than the top three most popular games.  
+
+3.  Based on the purchase analysis by gender, we observe that in addition to being least likely to play games, females are also least likely to 
+spend money on games.  Also, given the fact that the majority of players are within the 20-24 age group, we can assume that most of the players
+in this group are male.  However, based on the average purchase total per person, we can't discount the idea that the majority of female players 
+are also in this age group.
